@@ -10,3 +10,4 @@ performance
 dependency-check-jenkins-plugin
 workflow-aggregator
 pipeline-maven
+prometheus
